@@ -37,6 +37,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiristEsp&layout=compact&langs_count=7&theme=dracula"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airistesp&theme=dracula" alt="airistesp" /></p>
 </div>
+  
+  ![Snake animation](https://github.com/AiristEsp/AiristEsp/blob/output/github-contribution-grid-snake.svg)
 
 
 
