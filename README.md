@@ -33,9 +33,10 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AiristEsp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AiristEsp&show_icons=true&theme=dracula&include_all_commits=true&      count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiristEsp&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airistesp&theme=dracula" alt="airistesp" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airistesp&" alt="airistesp" /></p>
+
 
