@@ -7,7 +7,7 @@
 
 ![age](https://img.shields.io/badge/age-17-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+![living](https://img.shields.io/badge/living-SoulSociety-3c9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airistesp&label=Profile%20views&color=0e75b6&style=flat" alt="airistesp" /> </p>
 
 - 🔭 I’m currently working on **Track Back**
