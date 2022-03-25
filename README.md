@@ -82,11 +82,6 @@
 <br>
 ### Show some ❤️ by starring ⭐ some of the repositories!
 <br> 
-  
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">
-<img src="https://img.shields.io/badge/stackoverflow-%231877F2.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange">
 
   </div>
   
