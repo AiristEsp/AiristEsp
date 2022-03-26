@@ -86,7 +86,7 @@
   </div>
   
   
-  ![Snake animation](https://github.com/AiristEsp/AiristEsp/blob/output/github-contribution-grid-snake.svg)
+  ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
 
 
 
