@@ -5,7 +5,7 @@
 <h3 align="center">A passionate iot, devops, backend from Soul Society</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
-![age](https://img.shields.io/badge/age-17-blue)
+![age](https://img.shields.io/badge/age-4-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-SoulSociety-3c9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airistesp&label=Profile%20views&color=0e75b6&style=flat" alt="airistesp" /> </p>
