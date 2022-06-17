@@ -75,6 +75,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AiristEsp&show_icons=true&theme=dracula&include_all_commits=true&      count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiristEsp&layout=compact&langs_count=7&theme=dracula"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airistesp&theme=dracula" alt="airistesp" /></p>
+  <p><img align="center" width="44%" src="https://github-profile-trophy.vercel.app/?username=airistesp&theme=onestar&column=4&margin-w=10&margin-h=10"/></p>
 </div>
 
 <div align="center">
