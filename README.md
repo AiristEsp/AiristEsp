@@ -79,14 +79,6 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airistesp&theme=dracula" alt="airistesp" /></p>
   <p><img align="center" width="44%" src="https://github-profile-trophy.vercel.app/?username=airistesp&theme=onestar&column=4&margin-w=10&margin-h=10"/></p>
 </div>
-
-<div align="center">
-
-<br>
-### Show some ❤️ by starring ⭐ some of the repositories!
-<br> 
-
-  </div>
   
   
   ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
