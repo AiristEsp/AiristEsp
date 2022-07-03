@@ -3,7 +3,9 @@
 <h1 align="center"> Hello World I'm  Airist4 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">A passionate iot, devops, backend from Soul Society</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align="bottom" alt="Coding" width="400" src="https://raw.githubusercontent.com/norcalli/github-assets/master/nvim-colorizer.lua-demo-short.gif">
+<img align="top" alt="Coding" width="400" src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif">
 
 ![age](https://img.shields.io/badge/age-4-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
@@ -18,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Project**
 
-- 👨‍💻 All of my projects are available at [www.airist4.myporto](www.airist4.myporto)
+- 👨‍💻 All of my projects are available at My Github
 
 - 📝 I regularly write articles on [Diary](Diary)
 
@@ -30,7 +32,7 @@
 
 - ⚡ Fun fact **I think I'm hallucinating**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding with me :3</h3>
 <p align="left">
 </p>
 
